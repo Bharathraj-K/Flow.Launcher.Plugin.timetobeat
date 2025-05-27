@@ -1,0 +1,12 @@
+{
+  "ID": "cfe6d94b-c06c-4a66-8b57-aab57f047ce1", 
+  "ActionKeyword": "ttb",  
+  "Name": "Time To Beat", 
+  "Description": "Get the average playtime of a video game using HowLongToBeat.",
+  "Author": "Bharathraj", 
+  "Version": "1.0.0", 
+  "Language": "python", 
+  "Website": "", 
+  "IcoPath": "icon.png", 
+  "ExecuteFileName": "main.py"
+}
