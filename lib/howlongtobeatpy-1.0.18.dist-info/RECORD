@@ -1,0 +1,17 @@
+howlongtobeatpy-1.0.18.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+howlongtobeatpy-1.0.18.dist-info/LICENSE.md,sha256=qsIlIAsXSkAi6XM6v4GW7alxS_cktNKhknfyMVpcGNM,1064
+howlongtobeatpy-1.0.18.dist-info/METADATA,sha256=ld58_x0QdoNexuIKgGnbIfPAXJZO1YOYBlAJRnQVMY8,7777
+howlongtobeatpy-1.0.18.dist-info/RECORD,,
+howlongtobeatpy-1.0.18.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+howlongtobeatpy-1.0.18.dist-info/WHEEL,sha256=In9FTNxeP60KnTkGw7wk6mJPYd_dQSjEZmXdBdMCI-8,91
+howlongtobeatpy-1.0.18.dist-info/top_level.txt,sha256=5CqILowdsPNvzU0_0fvriVOQMT9q3yZTbIu6HTz4nZA,16
+howlongtobeatpy/HTMLRequests.py,sha256=MqZVDMO38Jfzr_hfTTGMk6CkS9EbsUsexg4i5ZWfTLU,16287
+howlongtobeatpy/HowLongToBeat.py,sha256=THcsACTL_HwTzWX-I__7CfHUhp-5ODWbbbdh5TzpPH4,6969
+howlongtobeatpy/HowLongToBeatEntry.py,sha256=8HZMqK40FLVJhBRvNjOmO84hHpRFn_Z-b9dnn1JSV9Q,2179
+howlongtobeatpy/JSONResultParser.py,sha256=tFoas1ok8YVELot-iEIE4pjrXNuAAi56QpEAYWEgkT8,7375
+howlongtobeatpy/__init__.py,sha256=kXcjEZrKOdANH-mIuI99Yx0yq-LAeLcdne2W6yBq3O8,134
+howlongtobeatpy/__pycache__/HTMLRequests.cpython-310.pyc,,
+howlongtobeatpy/__pycache__/HowLongToBeat.cpython-310.pyc,,
+howlongtobeatpy/__pycache__/HowLongToBeatEntry.cpython-310.pyc,,
+howlongtobeatpy/__pycache__/JSONResultParser.cpython-310.pyc,,
+howlongtobeatpy/__pycache__/__init__.cpython-310.pyc,,
